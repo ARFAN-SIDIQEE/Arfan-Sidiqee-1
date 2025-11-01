@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfan-sidiqee&label=Profile%20views&color=0e75b6&style=flat" alt="arfan-sidiqee" /> </p>
 
 - 🔭 I’m currently working on **GBSODM**
+- I am curently working on **Fundraising system **
 
-- 🌱 I’m currently learning **Flask, Django, MySQL**
+- 🌱 I’m currently learning **Flask,  MySQL**
 
-- 💬 Ask me about **C++,python**
+- 💬 Ask me about **C++,HTML,CSS JS**
 
 - 📫 How to reach me **arfansidiqee@gmail.com**
 
