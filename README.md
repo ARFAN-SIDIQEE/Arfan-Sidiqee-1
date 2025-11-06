@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **GBSODM**
 
-- 🌱 I’m currently learning **Flask, Django, MySQL**
+- 🔭 I’m currently working on **Fundraising-system**
+
+- 🌱 I’m currently learning **HTML,CSS,JS,Flask, Django, MySQL**
 
 - 💬 Ask me about **C++,python**
 
